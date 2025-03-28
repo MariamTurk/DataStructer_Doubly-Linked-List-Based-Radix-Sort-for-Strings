@@ -1,12 +1,5 @@
-# DataStructer_Doubly-Linked-List-Based-Radix-Sort-for-Strings
+
 # 🔤 Radix Sort of Strings Using Doubly Linked Lists in C
-
-### 👤 Author: Mariam Turk  
-**ID:** 1211115  
-**Section:** 1  
-**Instructor:** Ahmad Abusnaina  
-
----
 
 ## 📚 Description
 
